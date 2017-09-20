@@ -8,6 +8,10 @@ This part is to explain a brief introduction to the proyect using git
 
 ## Purporse
 
+Purpose is to show the differences between versions on the same README file
+
 ## Deployment
+
+Pick a web server on your choice and deploy this amazing and self-made project! woow ;)
 
 ## How to contribute to this amazing stuff
