@@ -16,6 +16,8 @@ Pick a web server on your choice and deploy this amazing and self-made project! 
 
 ## How to contribute to this amazing stuff
 
+Fork this repo into your local machine and PR plsss
+
 ## Copyright
 
 Copyright important info to be read at some point in the future
