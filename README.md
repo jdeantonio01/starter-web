@@ -20,4 +20,4 @@ Fork this repo into your local machine and PR plsss
 
 ## Copyright
 
-Copyright important info to be read at some point in the future
+All rights reserved
